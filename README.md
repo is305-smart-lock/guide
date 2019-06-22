@@ -1,10 +1,10 @@
 # 锁 🔒
 ## 项目结构
-[树莓派(嵌入式)](#)
+[树莓派(嵌入式)](https://github.com/is305-smart-lock/lock-terminal)
 
 <--UDP Socket-->
 
-[UDP服务端(Python)](#)
+[UDP服务端(Python)](https://github.com/is305-smart-lock/lock-socket-server)
 
 <--Message Queue-->
 
